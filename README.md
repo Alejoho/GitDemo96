@@ -1,6 +1,5 @@
 # GitDemo96
-
-This is a demo app for the Git course.
+This is a sample repository / sample app for the Git course.
 
 ## How to work with git
 
